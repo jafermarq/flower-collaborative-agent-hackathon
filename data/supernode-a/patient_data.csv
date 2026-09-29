@@ -1,0 +1,241 @@
+Patient Number,Patient Name,Sex Code,Age (years),YTD Visits,Current Medicines,Previous Surgeries,department,ethnicity
+CLN-000211,Kai C. Patel,F,30,12,4,0,Endocrinology,Hispanic
+CLN-000212,Alex D. Garcia,F,82,4,2,3,Orthopedics,East Asian
+CLN-000213,Ethan E. Singh,M,43,9,0,0,Cardiology,South Asian
+CLN-000214,Leila F. Ibrahim,M,68,1,7,3,Endocrinology,East Asian
+CLN-000215,Amara G. Williams,F,18,6,5,0,Cardiology,Black
+CLN-000216,Fatima H. Khan,F,26,11,3,3,Cardiology,South Asian
+CLN-000217,Maya I. Bennett,F,76,3,1,0,Endocrinology,Black
+CLN-000218,Avery J. Martin,F,85,8,8,3,Oncology,Black
+CLN-000219,Grace K. Diaz,M,84,0,6,0,Endocrinology,East Asian
+CLN-000220,Noah L. Owens,M,32,5,4,3,Gastroenterology,East Asian
+CLN-000221,Ben M. Foster,F,38,10,2,0,Endocrinology,South Asian
+CLN-000222,Hugo N. Reed,M,42,2,0,3,Orthopedics,Middle Eastern
+CLN-000223,Priya O. Harris,M,40,7,7,0,Endocrinology,Middle Eastern
+CLN-000224,Camila P. Turner,F,53,12,5,3,Endocrinology,South Asian
+CLN-000225,Iris Q. Johnson,M,86,4,3,0,Endocrinology,Black
+CLN-000226,Ravi R. Adams,M,84,9,1,3,Gastroenterology,South Asian
+CLN-000227,Daniel S. Lewis,M,17,1,8,0,Pediatrics,White
+CLN-000228,Jamal T. Chen,F,64,6,6,3,Oncology,East Asian
+CLN-000229,Sofia U. Nakamura,F,55,11,4,0,Orthopedics,East Asian
+CLN-000230,Elena V. Evans,F,95,3,2,3,Cardiology,East Asian
+CLN-000231,Kai W. Patel,F,8,8,0,0,Oncology,White
+CLN-000232,Alex X. Garcia,M,67,0,7,3,Oncology,Hispanic
+CLN-000233,Ethan Y. Singh,M,74,5,5,0,Gastroenterology,Hispanic
+CLN-000234,Leila Z. Ibrahim,F,24,10,3,3,Oncology,White
+CLN-000235,Amara A. Williams,F,7,2,1,0,Pediatrics,Middle Eastern
+CLN-000236,Fatima B. Khan,M,73,7,8,3,Gastroenterology,South Asian
+CLN-000237,Maya C. Bennett,M,56,12,6,0,Cardiology,South Asian
+CLN-000238,Avery D. Martin,M,14,4,4,3,Pediatrics,Hispanic
+CLN-000239,Grace E. Diaz,M,62,9,2,0,Oncology,Middle Eastern
+CLN-000240,Noah F. Owens,M,16,1,0,3,Pediatrics,South Asian
+CLN-000241,Ben G. Foster,M,47,6,7,0,Orthopedics,East Asian
+CLN-000242,Hugo H. Reed,M,36,11,5,3,Endocrinology,Middle Eastern
+CLN-000243,Priya I. Harris,M,83,3,3,0,Dermatology,South Asian
+CLN-000244,Camila J. Turner,M,94,8,1,3,Cardiology,South Asian
+CLN-000245,Iris K. Johnson,M,2,0,8,0,Pediatrics,East Asian
+CLN-000246,Ravi L. Adams,M,12,5,6,3,Pediatrics,East Asian
+CLN-000247,Daniel M. Lewis,M,8,10,4,0,Pediatrics,White
+CLN-000248,Jamal N. Chen,M,86,2,2,3,Orthopedics,Hispanic
+CLN-000249,Sofia O. Nakamura,M,2,7,0,0,Pediatrics,Black
+CLN-000250,Elena P. Evans,F,33,12,7,3,Dermatology,Hispanic
+CLN-000251,Kai Q. Patel,M,6,4,5,0,Pediatrics,South Asian
+CLN-000252,Alex R. Garcia,F,49,9,3,3,Oncology,White
+CLN-000253,Ethan S. Singh,F,66,1,1,0,Dermatology,Middle Eastern
+CLN-000254,Leila T. Ibrahim,F,77,6,8,3,Neurology,East Asian
+CLN-000255,Amara U. Williams,F,12,11,6,0,Dermatology,Middle Eastern
+CLN-000256,Fatima V. Khan,M,40,3,4,3,Neurology,South Asian
+CLN-000257,Maya W. Bennett,M,60,8,2,0,Gastroenterology,South Asian
+CLN-000258,Avery X. Martin,F,88,0,0,3,Neurology,Hispanic
+CLN-000259,Grace Y. Diaz,M,81,5,7,0,Gastroenterology,East Asian
+CLN-000260,Noah Z. Owens,F,80,10,5,3,Neurology,South Asian
+CLN-000261,Ben A. Foster,F,90,2,3,0,Endocrinology,White
+CLN-000262,Hugo B. Reed,F,56,7,1,3,Neurology,Hispanic
+CLN-000263,Priya C. Harris,M,27,12,8,0,Endocrinology,Black
+CLN-000264,Camila D. Turner,M,72,4,6,3,Endocrinology,Middle Eastern
+CLN-000265,Iris E. Johnson,F,28,9,4,0,Gastroenterology,East Asian
+CLN-000266,Ravi F. Adams,F,72,1,2,3,Neurology,Black
+CLN-000267,Daniel G. Lewis,F,0,6,0,0,Cardiology,White
+CLN-000268,Jamal H. Chen,F,78,11,7,3,Dermatology,White
+CLN-000269,Sofia I. Nakamura,M,0,3,5,0,Neurology,Black
+CLN-000270,Elena J. Evans,M,25,8,3,3,Gastroenterology,Black
+CLN-000271,Kai K. Patel,M,51,0,1,0,Cardiology,Black
+CLN-000272,Alex L. Garcia,M,70,5,8,3,Orthopedics,Hispanic
+CLN-000273,Ethan M. Singh,F,14,10,6,0,Pediatrics,Middle Eastern
+CLN-000274,Leila N. Ibrahim,M,48,2,4,3,Dermatology,Hispanic
+CLN-000275,Amara O. Williams,F,76,7,2,0,Orthopedics,Hispanic
+CLN-000276,Fatima P. Khan,F,79,12,0,3,Gastroenterology,Hispanic
+CLN-000277,Maya Q. Bennett,M,35,4,7,0,Oncology,Middle Eastern
+CLN-000278,Avery R. Martin,F,49,9,5,3,Cardiology,Black
+CLN-000279,Grace S. Diaz,F,53,1,3,0,Cardiology,White
+CLN-000280,Noah T. Owens,M,80,6,1,3,Endocrinology,Middle Eastern
+CLN-000281,Ben U. Foster,M,33,11,8,0,Cardiology,Black
+CLN-000282,Hugo V. Reed,F,23,3,6,3,Cardiology,South Asian
+CLN-000283,Priya W. Harris,F,86,8,4,0,Gastroenterology,South Asian
+CLN-000284,Camila X. Turner,F,78,0,2,3,Endocrinology,East Asian
+CLN-000285,Iris Y. Johnson,F,26,5,0,0,Cardiology,East Asian
+CLN-000286,Ravi Z. Adams,F,3,10,7,3,Pediatrics,East Asian
+CLN-000287,Daniel A. Lewis,F,69,2,5,0,Oncology,South Asian
+CLN-000288,Jamal B. Chen,M,61,7,3,3,Dermatology,Hispanic
+CLN-000289,Sofia C. Nakamura,F,35,12,1,0,Gastroenterology,South Asian
+CLN-000290,Elena D. Evans,M,68,4,8,3,Dermatology,South Asian
+CLN-000291,Kai E. Patel,M,40,9,6,0,Oncology,White
+CLN-000292,Alex F. Garcia,F,18,1,4,3,Cardiology,Hispanic
+CLN-000293,Ethan G. Singh,F,93,6,2,0,Gastroenterology,Hispanic
+CLN-000294,Leila H. Ibrahim,F,30,11,0,3,Orthopedics,White
+CLN-000295,Amara I. Williams,F,77,3,7,0,Oncology,Black
+CLN-000296,Fatima J. Khan,M,57,8,5,3,Cardiology,Hispanic
+CLN-000297,Maya K. Bennett,F,68,0,3,0,Orthopedics,South Asian
+CLN-000298,Avery L. Martin,F,21,5,1,3,Dermatology,Hispanic
+CLN-000299,Grace M. Diaz,M,50,10,8,0,Orthopedics,Middle Eastern
+CLN-000300,Noah N. Owens,F,41,2,6,3,Dermatology,White
+CLN-000301,Kai C. Patel,M,42,12,4,0,Neurology,South Asian
+CLN-000302,Alex D. Garcia,F,18,4,2,3,Dermatology,Black
+CLN-000303,Ethan E. Singh,F,56,9,0,0,Cardiology,White
+CLN-000304,Leila F. Ibrahim,F,48,1,7,3,Cardiology,East Asian
+CLN-000305,Amara G. Williams,M,85,6,5,0,Orthopedics,Middle Eastern
+CLN-000306,Fatima H. Khan,M,37,11,3,3,Cardiology,East Asian
+CLN-000307,Maya I. Bennett,M,55,3,1,0,Orthopedics,East Asian
+CLN-000308,Avery J. Martin,M,90,8,8,3,Oncology,South Asian
+CLN-000309,Grace K. Diaz,M,63,0,6,0,Cardiology,South Asian
+CLN-000310,Noah L. Owens,F,22,5,4,3,Oncology,Middle Eastern
+CLN-000311,Ben M. Foster,F,58,10,2,0,Endocrinology,Middle Eastern
+CLN-000312,Hugo N. Reed,F,82,2,0,3,Neurology,White
+CLN-000313,Priya O. Harris,F,64,7,7,0,Neurology,East Asian
+CLN-000314,Camila P. Turner,M,37,12,5,3,Oncology,Middle Eastern
+CLN-000315,Iris Q. Johnson,F,54,4,3,0,Cardiology,White
+CLN-000316,Ravi R. Adams,F,60,9,1,3,Neurology,Middle Eastern
+CLN-000317,Daniel S. Lewis,M,34,1,8,0,Endocrinology,Hispanic
+CLN-000318,Jamal T. Chen,M,16,6,6,3,Endocrinology,South Asian
+CLN-000319,Sofia U. Nakamura,M,65,11,4,0,Cardiology,Black
+CLN-000320,Elena V. Evans,F,82,3,2,3,Gastroenterology,Black
+CLN-000321,Kai W. Patel,F,92,8,0,0,Cardiology,South Asian
+CLN-000322,Alex X. Garcia,F,1,0,7,3,Dermatology,Hispanic
+CLN-000323,Ethan Y. Singh,F,46,5,5,0,Gastroenterology,Hispanic
+CLN-000324,Leila Z. Ibrahim,M,38,10,3,3,Oncology,Hispanic
+CLN-000325,Amara A. Williams,F,42,2,1,0,Dermatology,East Asian
+CLN-000326,Fatima B. Khan,M,10,7,8,3,Pediatrics,Middle Eastern
+CLN-000327,Maya C. Bennett,F,60,12,6,0,Orthopedics,East Asian
+CLN-000328,Avery D. Martin,M,11,4,4,3,Pediatrics,Middle Eastern
+CLN-000329,Grace E. Diaz,M,10,9,2,0,Pediatrics,Black
+CLN-000330,Noah F. Owens,M,31,1,0,3,Neurology,Hispanic
+CLN-000331,Ben G. Foster,M,20,6,7,0,Dermatology,East Asian
+CLN-000332,Hugo H. Reed,M,93,11,5,3,Oncology,East Asian
+CLN-000333,Priya I. Harris,F,94,3,3,0,Oncology,South Asian
+CLN-000334,Camila J. Turner,M,36,8,1,3,Endocrinology,White
+CLN-000335,Iris K. Johnson,F,62,0,8,0,Oncology,Black
+CLN-000336,Ravi L. Adams,F,0,5,6,3,Oncology,Black
+CLN-000337,Daniel M. Lewis,F,36,10,4,0,Neurology,Black
+CLN-000338,Jamal N. Chen,M,6,2,2,3,Pediatrics,White
+CLN-000339,Sofia O. Nakamura,F,73,7,0,0,Cardiology,Hispanic
+CLN-000340,Elena P. Evans,M,79,12,7,3,Endocrinology,East Asian
+CLN-000341,Kai Q. Patel,M,21,4,5,0,Gastroenterology,Hispanic
+CLN-000342,Alex R. Garcia,F,39,9,3,3,Oncology,South Asian
+CLN-000343,Ethan S. Singh,F,4,1,1,0,Pediatrics,East Asian
+CLN-000344,Leila T. Ibrahim,F,72,6,8,3,Dermatology,White
+CLN-000345,Amara U. Williams,F,65,11,6,0,Orthopedics,Middle Eastern
+CLN-000346,Fatima V. Khan,M,44,3,4,3,Dermatology,Black
+CLN-000347,Maya W. Bennett,M,32,8,2,0,Gastroenterology,White
+CLN-000348,Avery X. Martin,M,92,0,0,3,Oncology,White
+CLN-000349,Grace Y. Diaz,M,59,5,7,0,Neurology,South Asian
+CLN-000350,Noah Z. Owens,M,90,10,5,3,Dermatology,South Asian
+CLN-000351,Ben A. Foster,M,62,2,3,0,Dermatology,Hispanic
+CLN-000352,Hugo B. Reed,F,81,7,1,3,Dermatology,Hispanic
+CLN-000353,Priya C. Harris,F,88,12,8,0,Gastroenterology,East Asian
+CLN-000354,Camila D. Turner,M,45,4,6,3,Orthopedics,Middle Eastern
+CLN-000355,Iris E. Johnson,F,4,9,4,0,Gastroenterology,Black
+CLN-000356,Ravi F. Adams,M,17,1,2,3,Endocrinology,Middle Eastern
+CLN-000357,Daniel G. Lewis,M,9,6,0,0,Pediatrics,Black
+CLN-000358,Jamal H. Chen,F,50,11,7,3,Gastroenterology,White
+CLN-000359,Sofia I. Nakamura,M,58,3,5,0,Neurology,South Asian
+CLN-000360,Elena J. Evans,F,66,8,3,3,Dermatology,South Asian
+CLN-000361,Kai K. Patel,M,27,0,1,0,Orthopedics,Black
+CLN-000362,Alex L. Garcia,F,28,5,8,3,Oncology,Hispanic
+CLN-000363,Ethan M. Singh,F,75,10,6,0,Orthopedics,Hispanic
+CLN-000364,Leila N. Ibrahim,F,83,2,4,3,Endocrinology,Black
+CLN-000365,Amara O. Williams,M,34,7,2,0,Orthopedics,Black
+CLN-000366,Fatima P. Khan,F,26,12,0,3,Oncology,Middle Eastern
+CLN-000367,Maya Q. Bennett,F,15,4,7,0,Pediatrics,White
+CLN-000368,Avery R. Martin,F,13,9,5,3,Dermatology,White
+CLN-000369,Grace S. Diaz,M,44,1,3,0,Endocrinology,Middle Eastern
+CLN-000370,Noah T. Owens,M,58,6,1,3,Gastroenterology,Middle Eastern
+CLN-000371,Ben U. Foster,M,84,11,8,0,Cardiology,South Asian
+CLN-000372,Hugo V. Reed,F,74,3,6,3,Oncology,East Asian
+CLN-000373,Priya W. Harris,F,54,8,4,0,Dermatology,South Asian
+CLN-000374,Camila X. Turner,F,38,0,2,3,Neurology,White
+CLN-000375,Iris Y. Johnson,M,34,5,0,0,Oncology,East Asian
+CLN-000376,Ravi Z. Adams,M,29,10,7,3,Cardiology,White
+CLN-000377,Daniel A. Lewis,F,59,2,5,0,Endocrinology,Hispanic
+CLN-000378,Jamal B. Chen,M,7,7,3,3,Pediatrics,South Asian
+CLN-000379,Sofia C. Nakamura,F,71,12,1,0,Dermatology,Middle Eastern
+CLN-000380,Elena D. Evans,M,5,4,8,3,Orthopedics,White
+CLN-000381,Kai E. Patel,M,46,9,6,0,Oncology,White
+CLN-000382,Alex F. Garcia,M,10,1,4,3,Pediatrics,Black
+CLN-000383,Ethan G. Singh,M,24,6,2,0,Dermatology,East Asian
+CLN-000384,Leila H. Ibrahim,M,91,11,0,3,Neurology,White
+CLN-000385,Amara I. Williams,M,20,3,7,0,Cardiology,East Asian
+CLN-000386,Fatima J. Khan,M,19,8,5,3,Neurology,South Asian
+CLN-000387,Maya K. Bennett,F,51,0,3,0,Dermatology,White
+CLN-000388,Avery L. Martin,F,19,5,1,3,Neurology,South Asian
+CLN-000389,Grace M. Diaz,F,70,10,8,0,Orthopedics,Hispanic
+CLN-000390,Noah N. Owens,F,13,2,6,3,Pediatrics,Middle Eastern
+CLN-000391,Kai C. Patel,F,87,12,4,0,Orthopedics,Middle Eastern
+CLN-000392,Alex D. Garcia,M,52,4,2,3,Gastroenterology,East Asian
+CLN-000393,Ethan E. Singh,M,22,9,0,0,Neurology,Middle Eastern
+CLN-000394,Leila F. Ibrahim,F,61,1,7,3,Orthopedics,Black
+CLN-000395,Amara G. Williams,M,87,6,5,0,Oncology,Hispanic
+CLN-000396,Fatima H. Khan,M,48,11,3,3,Orthopedics,Black
+CLN-000397,Maya I. Bennett,M,71,3,1,0,Neurology,Middle Eastern
+CLN-000398,Avery J. Martin,F,22,8,8,3,Orthopedics,Hispanic
+CLN-000399,Grace K. Diaz,F,11,0,6,0,Pediatrics,Middle Eastern
+CLN-000400,Noah L. Owens,F,3,5,4,3,Pediatrics,Middle Eastern
+CLN-000401,Ben M. Foster,M,94,10,2,0,Oncology,Black
+CLN-000402,Hugo N. Reed,F,12,2,0,3,Pediatrics,Middle Eastern
+CLN-000403,Priya O. Harris,F,70,7,7,0,Oncology,White
+CLN-000404,Camila P. Turner,M,45,12,5,3,Dermatology,Middle Eastern
+CLN-000405,Iris Q. Johnson,M,54,4,3,0,Gastroenterology,Black
+CLN-000406,Ravi R. Adams,M,1,9,1,3,Pediatrics,East Asian
+CLN-000407,Daniel S. Lewis,F,43,1,8,0,Endocrinology,Middle Eastern
+CLN-000408,Jamal T. Chen,M,30,6,6,3,Cardiology,East Asian
+CLN-000409,Sofia U. Nakamura,M,32,11,4,0,Neurology,East Asian
+CLN-000410,Elena V. Evans,F,44,3,2,3,Gastroenterology,East Asian
+CLN-000411,Kai W. Patel,F,41,8,0,0,Orthopedics,White
+CLN-000412,Alex X. Garcia,F,67,0,7,3,Neurology,Black
+CLN-000413,Ethan Y. Singh,M,15,5,5,0,Endocrinology,Middle Eastern
+CLN-000414,Leila Z. Ibrahim,F,24,10,3,3,Dermatology,White
+CLN-000415,Amara A. Williams,F,20,2,1,0,Gastroenterology,Hispanic
+CLN-000416,Fatima B. Khan,F,89,7,8,3,Neurology,Hispanic
+CLN-000417,Maya C. Bennett,F,57,12,6,0,Dermatology,East Asian
+CLN-000418,Avery D. Martin,F,66,4,4,3,Gastroenterology,White
+CLN-000419,Grace E. Diaz,F,76,9,2,0,Neurology,White
+CLN-000420,Noah F. Owens,M,74,1,0,3,Dermatology,East Asian
+CLN-000421,Ben G. Foster,M,25,6,7,0,Neurology,East Asian
+CLN-000422,Hugo H. Reed,M,78,11,5,3,Cardiology,East Asian
+CLN-000423,Priya I. Harris,F,69,3,3,0,Endocrinology,Middle Eastern
+CLN-000424,Camila J. Turner,F,91,8,1,3,Endocrinology,South Asian
+CLN-000425,Iris K. Johnson,F,39,0,8,0,Oncology,White
+CLN-000426,Ravi L. Adams,F,92,5,6,3,Endocrinology,South Asian
+CLN-000427,Daniel M. Lewis,F,6,10,4,0,Pediatrics,Black
+CLN-000428,Jamal N. Chen,F,89,2,2,3,Gastroenterology,Black
+CLN-000429,Sofia O. Nakamura,M,52,7,0,0,Neurology,Black
+CLN-000430,Elena P. Evans,M,95,12,7,3,Orthopedics,Hispanic
+CLN-000431,Kai Q. Patel,F,88,4,5,0,Orthopedics,White
+CLN-000432,Alex R. Garcia,F,16,9,3,3,Pediatrics,Black
+CLN-000433,Ethan S. Singh,M,28,1,1,0,Neurology,Middle Eastern
+CLN-000434,Leila T. Ibrahim,M,52,6,8,3,Gastroenterology,Black
+CLN-000435,Amara U. Williams,M,31,11,6,0,Gastroenterology,White
+CLN-000436,Fatima V. Khan,F,8,3,4,3,Cardiology,Black
+CLN-000437,Maya W. Bennett,M,63,8,2,0,Orthopedics,Black
+CLN-000438,Avery X. Martin,M,47,0,0,3,Gastroenterology,Hispanic
+CLN-000439,Grace Y. Diaz,M,14,5,7,0,Pediatrics,White
+CLN-000440,Noah Z. Owens,F,4,10,5,3,Endocrinology,Hispanic
+CLN-000441,Ben A. Foster,M,80,2,3,0,Neurology,Middle Eastern
+CLN-000442,Hugo B. Reed,F,23,7,1,3,Gastroenterology,Hispanic
+CLN-000443,Priya C. Harris,M,46,12,8,0,Cardiology,South Asian
+CLN-000444,Camila D. Turner,F,64,4,6,3,Orthopedics,Hispanic
+CLN-000445,Iris E. Johnson,F,50,9,4,0,Neurology,Black
+CLN-000446,Ravi F. Adams,M,29,1,2,3,Dermatology,White
+CLN-000447,Daniel G. Lewis,M,75,6,0,0,Endocrinology,White
+CLN-000448,Jamal H. Chen,M,2,11,7,3,Pediatrics,Middle Eastern
+CLN-000449,Sofia I. Nakamura,M,5,3,5,0,Orthopedics,Hispanic
+CLN-000450,Elena J. Evans,M,9,8,3,3,Pediatrics,South Asian

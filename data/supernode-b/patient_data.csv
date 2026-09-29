@@ -1,0 +1,106 @@
+patient_ref;age_years;registered_sex;full_name;visit_count_2026;medication_count;surgery_history_count;department;ethnicity
+CLN-000076;2;female;Fatima X. Khan;0;4;3;Pediatrics;Hispanic
+CLN-000077;12;female;Maya Y. Bennett;5;2;0;Pediatrics;South Asian
+CLN-000078;8;female;Avery Z. Martin;10;0;3;Pediatrics;East Asian
+CLN-000079;13;male;Grace A. Diaz;2;7;0;Pediatrics;South Asian
+CLN-000080;70;female;Noah B. Owens;7;5;3;Dermatology;Black
+CLN-000081;7;female;Ben C. Foster;12;3;0;Pediatrics;South Asian
+CLN-000082;9;female;Hugo D. Reed;4;1;3;Gastroenterology;Black
+CLN-000083;2;female;Priya E. Harris;9;8;0;Pediatrics;South Asian
+CLN-000084;2;male;Camila F. Turner;1;6;3;Pediatrics;South Asian
+CLN-000085;42;female;Iris G. Johnson;6;4;0;Dermatology;South Asian
+CLN-000086;15;female;Ravi H. Adams;11;2;3;ENT;East Asian
+CLN-000087;2;female;Daniel I. Lewis;3;0;0;Pediatrics;East Asian
+CLN-000088;13;female;Jamal J. Chen;8;7;3;Gastroenterology;South Asian
+CLN-000089;24;male;Sofia K. Nakamura;0;5;0;Dermatology;South Asian
+CLN-000090;3;female;Elena L. Evans;5;3;3;Pediatrics;Black
+CLN-000091;95;female;Kai M. Patel;10;1;0;Dermatology;East Asian
+CLN-000092;1;female;Alex N. Garcia;2;8;3;Pediatrics;South Asian
+CLN-000093;15;female;Ethan O. Singh;7;6;0;Pediatrics;South Asian
+CLN-000094;89;male;Leila P. Ibrahim;12;4;3;ENT;East Asian
+CLN-000095;14;female;Amara Q. Williams;4;2;0;Pediatrics;South Asian
+CLN-000096;16;female;Fatima R. Khan;9;0;3;Pediatrics;South Asian
+CLN-000097;0;female;Maya S. Bennett;1;7;0;Pediatrics;White
+CLN-000098;6;female;Avery T. Martin;6;5;3;Pediatrics;South Asian
+CLN-000099;31;female;Grace U. Diaz;11;3;0;Neurology;South Asian
+CLN-000100;6;female;Noah V. Owens;3;1;3;Pediatrics;South Asian
+CLN-000101;47;female;Ben W. Foster;8;8;0;ENT;South Asian
+CLN-000102;11;female;Hugo X. Reed;0;6;3;Pediatrics;Hispanic
+CLN-000103;9;male;Priya Y. Harris;5;4;0;Pediatrics;Black
+CLN-000104;18;male;Camila Z. Turner;10;2;3;Gastroenterology;South Asian
+CLN-000105;31;female;Iris A. Johnson;2;0;0;ENT;South Asian
+CLN-000106;4;female;Ravi B. Adams;7;7;3;Pediatrics;South Asian
+CLN-000107;3;female;Daniel C. Lewis;12;5;0;Pediatrics;South Asian
+CLN-000108;28;female;Jamal D. Chen;4;3;3;Gastroenterology;Middle Eastern
+CLN-000109;0;female;Sofia E. Nakamura;9;1;0;Pediatrics;South Asian
+CLN-000110;3;female;Elena F. Evans;1;8;3;Pediatrics;South Asian
+CLN-000111;16;female;Kai G. Patel;6;6;0;Gastroenterology;East Asian
+CLN-000112;7;male;Alex H. Garcia;11;4;3;ENT;East Asian
+CLN-000113;62;female;Ethan I. Singh;3;2;0;Neurology;South Asian
+CLN-000114;20;male;Leila J. Ibrahim;8;0;3;Neurology;South Asian
+CLN-000115;14;female;Amara K. Williams;0;7;0;Pediatrics;South Asian
+CLN-000116;14;male;Fatima L. Khan;5;5;3;Pediatrics;Black
+CLN-000117;1;female;Maya M. Bennett;10;3;0;Pediatrics;South Asian
+CLN-000118;10;male;Avery N. Martin;2;1;3;Pediatrics;South Asian
+CLN-000119;4;female;Grace O. Diaz;7;8;0;Pediatrics;South Asian
+CLN-000120;63;male;Noah P. Owens;12;6;3;Neurology;Middle Eastern
+CLN-000121;12;male;Ben Q. Foster;4;4;0;Pediatrics;Black
+CLN-000122;8;female;Hugo R. Reed;9;2;3;Pediatrics;South Asian
+CLN-000123;3;female;Priya S. Harris;1;0;0;Pediatrics;South Asian
+CLN-000124;22;female;Camila T. Turner;6;7;3;Family Medicine;White
+CLN-000125;4;female;Iris U. Johnson;11;5;0;Pediatrics;South Asian
+CLN-000126;4;female;Ravi V. Adams;3;3;3;Gastroenterology;South Asian
+CLN-000127;62;male;Daniel W. Lewis;8;1;0;Family Medicine;South Asian
+CLN-000128;1;female;Jamal X. Chen;0;8;3;Pediatrics;South Asian
+CLN-000129;15;female;Sofia Y. Nakamura;5;6;0;Dermatology;Black
+CLN-000130;3;female;Elena Z. Evans;10;4;3;Pediatrics;South Asian
+CLN-000131;9;female;Kai A. Patel;2;2;0;Dermatology;South Asian
+CLN-000132;1;female;Alex B. Garcia;7;0;3;Pediatrics;Middle Eastern
+CLN-000133;16;male;Ethan C. Singh;12;7;0;Dermatology;Hispanic
+CLN-000134;0;female;Leila D. Ibrahim;4;5;3;Pediatrics;South Asian
+CLN-000135;28;female;Amara E. Williams;9;3;0;ENT;South Asian
+CLN-000451;5;female;Fatima X. Khan;0;4;3;Pediatrics;South Asian
+CLN-000452;21;male;Maya Y. Bennett;5;2;0;Gastroenterology;South Asian
+CLN-000453;64;female;Avery Z. Martin;10;0;3;Neurology;White
+CLN-000454;17;female;Grace A. Diaz;2;7;0;Dermatology;South Asian
+CLN-000455;28;male;Noah B. Owens;7;5;3;Neurology;East Asian
+CLN-000456;3;female;Ben C. Foster;12;3;0;Pediatrics;South Asian
+CLN-000457;57;female;Hugo D. Reed;4;1;3;Gastroenterology;South Asian
+CLN-000458;20;male;Priya E. Harris;9;8;0;Neurology;Middle Eastern
+CLN-000459;10;male;Camila F. Turner;1;6;3;Pediatrics;East Asian
+CLN-000460;1;female;Iris G. Johnson;6;4;0;Dermatology;South Asian
+CLN-000461;8;female;Ravi H. Adams;11;2;3;Pediatrics;South Asian
+CLN-000462;4;male;Daniel I. Lewis;3;0;0;Pediatrics;Hispanic
+CLN-000463;1;female;Jamal J. Chen;8;7;3;Pediatrics;South Asian
+CLN-000464;14;female;Sofia K. Nakamura;0;5;0;Pediatrics;South Asian
+CLN-000465;15;female;Elena L. Evans;5;3;3;Pediatrics;East Asian
+CLN-000466;21;female;Kai M. Patel;10;1;0;Neurology;East Asian
+CLN-000467;30;male;Alex N. Garcia;2;8;3;Family Medicine;Middle Eastern
+CLN-000468;17;female;Ethan O. Singh;7;6;0;Pediatrics;South Asian
+CLN-000469;6;male;Leila P. Ibrahim;12;4;3;ENT;Hispanic
+CLN-000470;33;female;Amara Q. Williams;4;2;0;ENT;East Asian
+CLN-000471;82;female;Fatima R. Khan;9;0;3;Gastroenterology;South Asian
+CLN-000472;53;male;Maya S. Bennett;1;7;0;Family Medicine;South Asian
+CLN-000473;15;female;Avery T. Martin;6;5;3;Pediatrics;White
+CLN-000474;2;female;Grace U. Diaz;11;3;0;Pediatrics;South Asian
+CLN-000475;1;female;Noah V. Owens;3;1;3;Pediatrics;Black
+CLN-000476;33;female;Ben W. Foster;8;8;0;Dermatology;South Asian
+CLN-000477;30;female;Hugo X. Reed;0;6;3;Neurology;South Asian
+CLN-000478;23;female;Priya Y. Harris;5;4;0;Dermatology;East Asian
+CLN-000479;16;female;Camila Z. Turner;10;2;3;Gastroenterology;South Asian
+CLN-000480;2;female;Iris A. Johnson;2;0;0;Pediatrics;Hispanic
+CLN-000481;52;female;Ravi B. Adams;7;7;3;Dermatology;South Asian
+CLN-000482;5;female;Daniel C. Lewis;12;5;0;Family Medicine;South Asian
+CLN-000483;4;female;Jamal D. Chen;4;3;3;Pediatrics;Black
+CLN-000484;2;female;Sofia E. Nakamura;9;1;0;Neurology;South Asian
+CLN-000485;29;male;Elena F. Evans;1;8;3;Dermatology;Black
+CLN-000486;32;female;Kai G. Patel;6;6;0;Gastroenterology;South Asian
+CLN-000487;32;male;Alex H. Garcia;11;4;3;Dermatology;South Asian
+CLN-000488;78;male;Ethan I. Singh;3;2;0;Gastroenterology;Hispanic
+CLN-000489;11;female;Leila J. Ibrahim;8;0;3;Pediatrics;South Asian
+CLN-000490;0;female;Amara K. Williams;0;7;0;Pediatrics;East Asian
+CLN-000491;9;female;Fatima L. Khan;5;5;3;Pediatrics;South Asian
+CLN-000492;6;male;Maya M. Bennett;10;3;0;Pediatrics;South Asian
+CLN-000493;57;female;Avery N. Martin;2;1;3;Dermatology;East Asian
+CLN-000494;6;female;Grace O. Diaz;7;8;0;Pediatrics;East Asian
+CLN-000495;5;female;Noah P. Owens;12;6;3;Pediatrics;South Asian

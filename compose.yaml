@@ -1,0 +1,52 @@
+services:
+  supernode-1:
+    image: flwr/supernode:1.39.0
+    command:
+      - --superlink=fleet-supergrid.flower.ai:443
+      - --auth-supernode-private-key=/keys/supernode-0
+      - --allow-runtime-dependency-installation
+    environment:
+      FLWR_MODEL_API_KEY: ${FLWR_MODEL_API_KEY:?Set FLWR_MODEL_API_KEY before running docker compose}
+      FLWR_FILESYSTEM_ALLOWED_DIRS: /data/supernode-a
+    volumes:
+      - ./keys:/keys:ro
+      - ./data/supernode-a:/data/supernode-a
+
+  supernode-2:
+    image: flwr/supernode:1.39.0
+    command:
+      - --superlink=fleet-supergrid.flower.ai:443
+      - --auth-supernode-private-key=/keys/supernode-1
+      - --allow-runtime-dependency-installation
+    environment:
+      FLWR_MODEL_API_KEY: ${FLWR_MODEL_API_KEY:?Set FLWR_MODEL_API_KEY before running docker compose}
+      FLWR_FILESYSTEM_ALLOWED_DIRS: /data/supernode-b
+    volumes:
+      - ./keys:/keys:ro
+      - ./data/supernode-b:/data/supernode-b
+
+  supernode-3:
+    image: flwr/supernode:1.39.0
+    command:
+      - --superlink=fleet-supergrid.flower.ai:443
+      - --auth-supernode-private-key=/keys/supernode-2
+      - --allow-runtime-dependency-installation
+    environment:
+      FLWR_MODEL_API_KEY: ${FLWR_MODEL_API_KEY:?Set FLWR_MODEL_API_KEY before running docker compose}
+      FLWR_FILESYSTEM_ALLOWED_DIRS: /data/supernode-c
+    volumes:
+      - ./keys:/keys:ro
+      - ./data/supernode-c:/data/supernode-c
+
+  supernode-4:
+    image: flwr/supernode:1.39.0
+    command:
+      - --superlink=fleet-supergrid.flower.ai:443
+      - --auth-supernode-private-key=/keys/supernode-3
+      - --allow-runtime-dependency-installation
+    environment:
+      FLWR_MODEL_API_KEY: ${FLWR_MODEL_API_KEY:?Set FLWR_MODEL_API_KEY before running docker compose}
+      FLWR_FILESYSTEM_ALLOWED_DIRS: /data/supernode-d
+    volumes:
+      - ./keys:/keys:ro
+      - ./data/supernode-d:/data/supernode-d
